@@ -1,0 +1,20 @@
+{
+  "name": "first-demo-project",
+  "version": "1.0.0",
+  "description": "This is my first backend project independently",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "first",
+    "backend",
+    "project"
+  ],
+  "author": "Osama Aslam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
